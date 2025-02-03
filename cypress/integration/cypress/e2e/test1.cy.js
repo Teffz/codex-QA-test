@@ -6,7 +6,7 @@ describe('Formulário de Contato', () => {
 
     // Preenche os campos do formulário de contato com dados válidos
     cy.get('#nome').type('Sthefane Nunes'); // Nome
-    cy.get('#email').type('sthefane.nunes@gmail.com'); // E-mail
+    cy.get('#email').type('sthefane@gmail.com'); // E-mail
     cy.get('#mensagem').type('Gostaria de mais informações sobre os pacotes de viagem.'); // Mensagem
 
     // Defina o comportamento esperado para o alert
