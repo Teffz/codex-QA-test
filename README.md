@@ -49,6 +49,12 @@ O objetivo principal deste repositório é demonstrar a implementação de teste
 
 2. O Cypress irá abrir, permitindo que você execute os testes visualmente. Escolha os testes desejados na interface do Cypress.
 
+
+
+## #Para localizar os scripts de teste você pode produrar diretamente no local: cypress/integration/cypress/e2e
+
+
+
 ## Tecnologias Utilizadas
 
 - **Cypress**: Framework para automação de testes end-to-end.
