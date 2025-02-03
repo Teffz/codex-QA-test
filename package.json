@@ -1,0 +1,19 @@
+{
+  "name": "viagem-facil-tests-automation",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "start-server":"http-server ./public -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.1",
+    "http-server": "^14.1.1"
+  }
+}
+
+
