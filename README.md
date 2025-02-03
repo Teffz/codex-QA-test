@@ -8,13 +8,13 @@ O objetivo principal deste repositório é demonstrar a implementação de teste
 
 ### Cenários de Testes
 
-1. **Teste que Falha Intencionalmente - Formulário de Contato - Nome Inválido (Menos de 3 Caracteres)**  
-   - Descrição: Este teste verifica se o formulário não permite o envio quando o nome inserido tem menos de 3 caracteres. 
-   - Comportamento Esperado: O teste falha intencionalmente com a mensagem de erro "O nome deve ter pelo menos 3 caracteres."
-
-2. **Teste que Passa com Sucesso - Formulário de Contato - Envio do E-mail**  
+1. **Teste que Passa com Sucesso - Formulário de Contato - Envio do E-mail**  
    - Descrição: Este teste verifica se o formulário é enviado com sucesso quando os dados válidos são fornecidos.
    - Comportamento Esperado: O teste passa com a confirmação "Mensagem enviada com sucesso!"
+
+2. **Teste que Falha Intencionalmente - Formulário de Contato - Nome Inválido (Menos de 3 Caracteres)**  
+   - Descrição: Este teste verifica se o formulário não permite o envio quando o nome inserido tem menos de 3 caracteres. 
+   - Comportamento Esperado: O teste falha intencionalmente com a mensagem de erro "O nome deve ter pelo menos 3 caracteres."
 
 ## Como Executar os Testes
 
